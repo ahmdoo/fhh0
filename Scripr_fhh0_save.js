@@ -111,6 +111,27 @@ div#l1
 	padding:16.8px!important
 }
 }
+.ae.fa.label.label-primary.fa-user {width: fit-content!important;}
+.label.ae.fa.label.fa-commenting-o.label-warning {border: 1px solid #ffa200;!important;color: #ffffff!important;}
+.label.ae.fa.chats.label.fa-comment.label-warning  {border: 1px solid #ffa200!important;}
+.fl.btn.btn-primary  {width: fit-content!important;}
+.a.label.primary {text-align: center!important;}
+.ae.fa.chats.label.fa-comment {width: fit-content!important;}
+.corner.fa.fa-user.label.label-primary.fr.uc {width: fit-content!important;}
+.ae.fa.label.label-primary.fa-users {width: fit-content!important;}
+.ae.fa.label.fa-commenting-o.label {width: fit-content!important;}
+.ae.label.label-primary.fa.fa-gear {width: fit-content!important;}
+.colorsB {border-radius:14px;width:7%;height:30px;margin:3px 2px;border-width:4px;}
+#clr1 {border-color:#2f2d29 ;background-color:#DFBBB1 ;}
+#clr2 {border-color:#3d155f;background-color:#ADA2B8 ;}
+#clr3 {border-color:#717C89 ;background-color:#8AA2A9 ;}
+#clr4 {border-color:#a6a4b5  ;background-color:#3b394a  ;}
+#clr5 {border-color:#9FA2B2;background-color:#2E4756;}
+
+#clr6 {border-color:#898579;background-color:#808F85;}
+#clr7 {border-color:#8B687F;background-color:#A28F9D;}
+#clr8 {border-color:#52796F;background-color:#538083;}
+
 </style>`).insertBefore("body");
 
 $(`<div style="width:auto%;"  id="ahmed" id="sa" class="fa fa-paint-brush btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">اختر لونك</div>
