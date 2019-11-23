@@ -110,7 +110,6 @@ div#l1
 	{
 	padding:16.8px!important
 }
-}
 .ae.fa.label.label-primary.fa-user {width: fit-content!important;}
 .label.ae.fa.label.fa-commenting-o.label-warning {border: 1px solid #ffa200;!important;color: #ffffff!important;}
 .label.ae.fa.chats.label.fa-comment.label-warning  {border: 1px solid #ffa200!important;}
