@@ -147,8 +147,8 @@ fl.btn.btn-primary  {Width : -moz-fit-content!important;}
 
 </style>`).insertBefore("body");
 
-$(`<div style="width:auto%;"  id="ahmed" id="sa" class="fa fa-paint-brush btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">اختر لونك</div>
-<div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary">  </p>إختر لونك بالضغط على احد الازرار  </p> <i class="fas fa-feather-alt"></i>
+$(`<div style="width:auto%;"  id="ahmed" id="sa" class="fa fa-paint-brush btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">لون الشات</div>
+<div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary">  </p>🎨</p> <i class="fas fa-feather-alt"></i>
  <button id="clr1" class="colorsB" type="button" onclick="alwanAhmed();
 function alwanAhmed() {	
 var elements = document.getElementsByClassName('label-primary'); 
