@@ -113,4 +113,4 @@ elements[i].style.cssText = 'background-color:#538083 !important; width:100%;';
 for(var i = 0; i < btns.length; i++){ btns[i].style.cssText = 'background-color:#52796F !important';
 	}
 };"></button>
-‏  <center></div></div></div>`).insertBefore('.fl fa fa-edit');
+‏  <center></div></div></div>`).insertBefore('.fl.fa.fa-edit');
