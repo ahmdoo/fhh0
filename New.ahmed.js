@@ -1,3 +1,4 @@
+$ ( `<style>
 .ae.fa.label.label-primary.fa-user {Width : fit-content
 Width : -moz-fit-content!important;}
 .label.ae.fa.label.fa-commenting-o.label-warning {border: 1px solid #ffa200;!important;color: #ffffff!important;}
