@@ -18,6 +18,9 @@ span.btn.fr.fa.fa-eye {
 .fa.fa-user.label.badgex.label-success {
     transform: matrix(1,0,0,1,-55,0);
 }
+button[onclick="login(1);"] {bacground-color:#969BA8;}
+button[onclick="login(2);"] {bacground-color:#969BA8;}
+button[onclick="login(3);"] {bacground-color:#969BA8;}
 
 div#l1 input#u1,div#l3 button {
     width: 98%!important;
