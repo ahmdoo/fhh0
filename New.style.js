@@ -8,13 +8,13 @@ border-radius: 0px 0px 25px 25px;
 box-shadow: 0px 0px 4px 4px #00eaff38;
 }
 
-.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: url(https://j.top4top.io/p_2508ne23l0.gif);}
+.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url(https://j.top4top.io/p_2508ne23l0.gif);}
 
-.nosel.d-flex.room.r1184721046d6xd95d5701-xcyewdv .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #00bbea;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+.nosel.d-flex.room.r1184721046d6xd95d5701-xcyewdv .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #1D7823;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
 
 
 
-.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
+.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 50px !important;}
 
 
 
@@ -72,15 +72,15 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
       min-height: 0% !important;
     }
     #users.aym1 .inroom.uzr .fitimg.u-pic {
-      border-radius: 50px 50px 50px 50px;
-    margin-top: 0px;
-    z-index: 0;
-    margin-left: -51px;
-    min-width: 50px;
-    width: 50px;
-    min-height: 48px;
-    max-height: 50px;
-    }
+  border-radius: 50px;
+  margin-top: 0px;
+  z-index: 0;
+  margin-left: -51px;
+  min-width: 51px;
+  width: 50px;
+  min-height: 48px;
+  max-height: 50px;
+}
 
     #d2.aym2 .uzr .fitimg.u-pic{
     border: 2px solid #2C692C;
