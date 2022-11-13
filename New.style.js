@@ -222,7 +222,7 @@ d2.aym2.flex-grow-1.break.light{
         if (myroom == '184721046d6xd95d5701-xcyewdv') {
             if (roomaymatest == false) {
                 roomaymatest = true;
-                $('.u-msg.break').addClass('ahmed');
+                $('.u-msg.break').removeClass('ahmed');
                 $('#users').addClass('aym1');
                 $('#d2').addClass('aym2');
                 $('#mic').addClass('aym3');
@@ -238,7 +238,7 @@ d2.aym2.flex-grow-1.break.light{
         } else {
             if (roomaymatest == true) {
                 roomaymatest = false;
-                $('.u-msg.break').removeClass('ahmed');
+                $('.u-msg.break').addClass('ahmed');
                 $("#users").removeClass('aym1');
                 $("#d2").removeClass('aym2');
                 $('#mic').removeClass('aym3');
