@@ -1,4 +1,4 @@
-,$(`<style>.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv.bord {border-inline: 4px solid #00bbea !important;}
+$(`<style>.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv.bord {border-inline: 4px solid #00bbea !important;}
 
 .nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv {display: inline-block;
   background-image: url(https://e.top4top.io/p_2508u7rjx0.gif);
@@ -238,7 +238,7 @@ d2.aym2.flex-grow-1.break.light{
         } else {
             if (roomaymatest == true) {
                 roomaymatest = false;
-                $('.u-msg.break').addClass('ahmed');
+                $('.u-msg.break').removeClass('ahmed');
                 $("#users").removeClass('aym1');
                 $("#d2").removeClass('aym2');
                 $('#mic').removeClass('aym3');
