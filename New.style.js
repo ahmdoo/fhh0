@@ -114,7 +114,7 @@ background-color: #007aad;}
     #users.aym1 .uzr {
         background-color: #0000 !important;}
       #users.aym1 {
-        background-image: url("https://up6.cc/2022/11/166776843187891.png");
+        background-image: url("https://k.top4top.io/p_250820wm50.jpg");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
@@ -124,12 +124,12 @@ background-color: #007aad;}
     #users.aym1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #f5f5f5 !important;
-        background-image: url("https://i.top4top.io/p_2508cff5c0.jpg");
+        background-image: url("https://k.top4top.io/p_250820wm50.jpg");
         background-size: cover;
     }
     #chats.aym5 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://i.top4top.io/p_2508cff5c0.jpg");
+      background-image: url("https://k.top4top.io/p_250820wm50.jpg");
       background-size: cover;
   }
 
@@ -144,7 +144,7 @@ background-color: #007aad;}
 	#rooms.aym4 .d-flex.room.r184721046d6xd95d5701-xcyewdv .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
 
     #rooms.aym4 {
-        background-image: url("https://i.top4top.io/p_2508cff5c0.jpg");
+        background-image: url("#");
         background-size: cover;
         background-color: #f5f5f5 !important;} 
 
@@ -153,15 +153,16 @@ background-color: #007aad;}
 }
 
 #d2bc.aym6.d2.light.d2bc.flex-grow-1.break {
-  background-image: url("https://up6.cc/2022/11/166776843187891.png");
+  background-image: url("https://i.top4top.io/p_2508cff5c0.jpg");
   background-size: cover;
   background-color: #f5f5f5 !important;} 
 
 #users .uzr.stl1 .u-msg{
-background-color:#000;}
+background-color:#000;
+text-color:#fff;}
 
 #d2.aym2.flex-grow-1.break.light{
-  background-image: url("#");
+  background-image: url("https://i.top4top.io/p_2508cff5c0.jpg");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
@@ -195,11 +196,6 @@ background-color:#000;}
   }
 
 
-.u-msg.break.ahmed{
--webkit-text-fill-color: #ffffff;
-
-    background-color: #4c6784 !important;
-  }
 
 
 #dpnl.aym9 .nosel.ninr.fl.uzr.label.bg {
@@ -222,7 +218,7 @@ background-color:#000;}
         if (myroom == '184721046d6xd95d5701-xcyewdv') {
             if (roomaymatest == false) {
                 roomaymatest = true;
-                $('.u-msg.break').addClass('ahmed');
+                $('u-msg
                 $('#users').addClass('aym1');
                 $('#d2').addClass('aym2');
                 $('#mic').addClass('aym3');
