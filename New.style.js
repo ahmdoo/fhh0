@@ -195,7 +195,13 @@ d2.aym2.flex-grow-1.break.light{
   }
 
 
-.
+.u-msg.break.ahmed{
+-webkit-text-fill-color: #ffffff;
+
+    background-color: #4c6784 !important;
+  }
+
+
 #dpnl.aym9 .nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #ffffff;
 
