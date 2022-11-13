@@ -45,6 +45,7 @@ var rid='184721046d6xd95d5701-xcyewdv';
         syntax: "<angle>";
         initial-value: 0deg;
         inherits: false;
+.ahmed {color:#ffffff!important;}
     }</style>`).insertBefore('body');
 
 
@@ -215,6 +216,7 @@ d2.aym2.flex-grow-1.break.light{
         if (myroom == '184721046d6xd95d5701-xcyewdv') {
             if (roomaymatest == false) {
                 roomaymatest = true;
+                $('.msg.break').addClass('ahmed');
                 $('#users').addClass('aym1');
                 $('#d2').addClass('aym2');
                 $('#mic').addClass('aym3');
@@ -230,6 +232,7 @@ d2.aym2.flex-grow-1.break.light{
         } else {
             if (roomaymatest == true) {
                 roomaymatest = false;
+                $('.msg.break').addClass('ahmed');
                 $("#users").removeClass('aym1');
                 $("#d2").removeClass('aym2');
                 $('#mic').removeClass('aym3');
