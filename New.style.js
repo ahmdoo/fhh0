@@ -1,4 +1,4 @@
-$(`<style>.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv.bord {border-inline: 4px solid #00bbea !important;}
+,$(`<style>.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv.bord {border-inline: 4px solid #00bbea !important;}
 
 .nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv {display: inline-block;
   background-image: url(https://e.top4top.io/p_2508u7rjx0.gif);
@@ -45,7 +45,7 @@ var rid='184721046d6xd95d5701-xcyewdv';
         syntax: "<angle>";
         initial-value: 0deg;
         inherits: false;
-.ahmed {color:#ffffff!important;}
+
     }</style>`).insertBefore('body');
 
 
@@ -195,7 +195,7 @@ d2.aym2.flex-grow-1.break.light{
   }
 
 
-
+.
 #dpnl.aym9 .nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #ffffff;
 
@@ -216,7 +216,7 @@ d2.aym2.flex-grow-1.break.light{
         if (myroom == '184721046d6xd95d5701-xcyewdv') {
             if (roomaymatest == false) {
                 roomaymatest = true;
-                $('.msg.break').addClass('ahmed');
+                $('.u-msg.break').addClass('ahmed');
                 $('#users').addClass('aym1');
                 $('#d2').addClass('aym2');
                 $('#mic').addClass('aym3');
@@ -232,7 +232,7 @@ d2.aym2.flex-grow-1.break.light{
         } else {
             if (roomaymatest == true) {
                 roomaymatest = false;
-                $('.msg.break').addClass('ahmed');
+                $('.u-msg.break').addClass('ahmed');
                 $("#users").removeClass('aym1');
                 $("#d2").removeClass('aym2');
                 $('#mic').removeClass('aym3');
