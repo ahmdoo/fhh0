@@ -218,7 +218,7 @@ text-color:#fff;}
         if (myroom == '184721046d6xd95d5701-xcyewdv') {
             if (roomaymatest == false) {
                 roomaymatest = true;
-                $('u-msg
+               
                 $('#users').addClass('aym1');
                 $('#d2').addClass('aym2');
                 $('#mic').addClass('aym3');
