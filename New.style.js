@@ -160,8 +160,8 @@ background-color: #007aad;}
 #users .uzr.stl1 .u-msg{
 background-color:#000;}
 
-d2.aym2.flex-grow-1.break.light{
-  background-image: url("");
+#d2.aym2.flex-grow-1.break.light{
+  background-image: url("#");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
