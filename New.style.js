@@ -5,7 +5,7 @@ $(`<style>.nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv.bord {border-inline: 
 
 background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
-box-shadow: 0px 0px 4px 4px #006600;
+box-shadow: 0px 0px 3px 3px #fff;
 }
 
 .nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url(https://j.top4top.io/p_2508ne23l0.gif);}
