@@ -10,7 +10,8 @@ box-shadow: 0px 0px 4px 4px #006600;
 
 .nosel.d-flex.room.r184721046d6xd95d5701-xcyewdv .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url(https://j.top4top.io/p_2508ne23l0.gif);}
 
-.nosel.d-flex.room.r1184721046d6xd95d5701-xcyewdv .fitimg.u-pic.borderg{border-radius: 100px!important;border: 4px solid #1D7823;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
+
+.nosel.d-flex.room.r1184721046d6xd95d5701-xcyewdv .fitimg.u-pic.borderg{border-radius: 100px!important;border: 2px solid #1D7823;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}
 
 
 
