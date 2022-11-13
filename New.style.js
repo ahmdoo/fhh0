@@ -161,7 +161,7 @@ background-color: #007aad;}
 background-color:#000;}
 
 d2.aym2.flex-grow-1.break.light{
-  background-image: url("https://i.top4top.io/p_2508cff5c0.jpg");
+  background-image: url("");
   background-size: cover;
   background-color: #f5f5f5 !important;}
 
