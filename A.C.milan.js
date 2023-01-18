@@ -2,7 +2,7 @@ $(`<style>.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg.bord {border-inline: 2
 background-size: 100%; 
 border-radius: 0px 0px 25px 25px;
 box-shadow: 0px 0px 3px 3px #fff;
-}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: linear-gradient(225deg,#B80000 0%,#000 29%,#B80000 67%,#535353 100%);}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #B80000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.81,.158,.178,.95) alternate infinite;}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .corner.fa.fa-user.label.label-primary.uc {letter-spacing: 1px;-webkit-text-fill-color: #000;background-image: url(https://a.top4top.io/p_2574urb5n0.jpg);padding: 0px !important;border-radius: 50px !important;background-color: #B80000;}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-image: url(https://a.top4top.io/p_2574urb5n0.jpg);letter-spacing: 1px;-webkit-text-fill-color: ##ddd;padding: 0px !important;border-radius: 50px !important;background-color: #B80000;}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #000 0%, #B80000 29%, #B80000 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;}
+}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #0000;background-image: linear-gradient(225deg,#B80000 0%,#000 29%,#B80000 67%,#535353 100%);}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .fitimg.u-pic.borderg{border-radius: 100px;border: 2px solid #B80000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.189,.14,.14,.14) alternate infinite;}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .corner.fa.fa-user.label.label-primary.uc {letter-spacing: 1px;-webkit-text-fill-color: #000;background-image: url(https://a.top4top.io/p_2574urb5n0.jpg);padding: 0px !important;border-radius: 50px !important;background-color: #B80000;}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-image: url(https://a.top4top.io/p_2574urb5n0.jpg);letter-spacing: 1px;-webkit-text-fill-color: ##ddd;padding: 0px !important;border-radius: 50px !important;background-color: #B80000;}.nosel.d-flex.room.r183dad394b7xf7cca5b7x7u6kkg .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #000 0%, #B80000 29%, #B80000 67%, #000 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;}
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 var rid='183dad394b7xf7cca5b7x7u6kkg';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #000 0%, #B80000 29%, #B80000 67%, #000 100%);background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #000 !important;
@@ -73,18 +73,18 @@ display:inline-block}#users.wa2n4 .inroom.uzr img.co{transform:rotate(20deg);mar
 border-radius:5px;
 border:1px solid #fffefe;
 border-bottom:1px solid #B80000);
-var ahmed = false;
+var ahmed2 = false;
 setInterval(function () {
     if (myroom == '183dad394b7xf7cca5b7x7u6kkg') {
-        if (ahmed == false) {
-            ahmed = true;
+        if (ahmed2 == false) {
+            ahmed2 = true;
 			$('#users').addClass('wa2n4');
 			$('#d2').addClass('wa2n5');
 			$('#mic').addClass('wa2n6');
         }
     } else {
-        if (ahmed == true) {
-            ahmed = false;
+        if (ahmed2 == true) {
+            ahmed2 = false;
             $("#users").removeClass('wa2n4');
 			$("#d2").removeClass('wa2n5');
 			$('#mic').removeClass('wa2n6');
