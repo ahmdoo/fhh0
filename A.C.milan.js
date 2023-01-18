@@ -48,7 +48,7 @@ border-bottom:1px solid #fffefe
   min-height: 48px;
   max-height: 50px;
 }
-#d2.ahm2 .uzr .fitimg.u-pic{
+#d2.ah2 .uzr .fitimg.u-pic{
 border: 1px solid #9C0000;
 margin-top:2px;border-radius:5px;
 box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #9C0000;}
@@ -57,7 +57,7 @@ box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #9C0000;}
 -webkit-text-fill-color: #555;
 }
 
-#users.ahm1 .inroom.uzr span.uhash{
+#users.ah1 .inroom.uzr span.uhash{
 text-transform:uppercase;
 background-image: linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#9C0000 67%,#9C0000 100%);
 background-size:220% auto;
