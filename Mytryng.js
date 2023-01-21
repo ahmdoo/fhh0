@@ -119,12 +119,12 @@ background-color: #737373;}
     #users.aym1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #737373 !important;
-        background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
+        background-image: url("");
         background-size: cover;
     }
     #chats.aym5 {
       background-color: #737373 !important;
-      background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
+      background-image: url("");
       background-size: cover;
   }
 
@@ -150,7 +150,7 @@ background-color: #737373;}
 #d2bc.aym6.d2.light.d2bc.flex-grow-1.break {
   background-image: url("");
   background-size: cover;
-  background-color: #737373 !important;} 
+  background-color: #fff !important;} 
 
 #users .uzr.stl1 .u-msg{
 background-color:#fff;
