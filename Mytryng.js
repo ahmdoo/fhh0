@@ -109,7 +109,7 @@ background-color: #737373;}
     #users.aym1 .uzr {
         background-color: #fff !important;}
       #users.aym1 {
-        background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
+        background-image: url("");
   background-size: cover;
   background-color: #737373 !important;}
 
@@ -124,16 +124,16 @@ background-color: #737373;}
     }
     #chats.aym5 {
       background-color: #737373 !important;
-      background-image: url("");
+      background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
       background-size: cover;
   }
 
-    #d0.aym {background-color: #737373;}
-    #d0.aym .label-primary {background-color: #737373;}
+    #d0.aym {background-color: #fff;}
+    #d0.aym .label-primary {background-color: #fff;}
     chats
     #settings.aym4 .label-primary {background-color: #fff !important;}
 
-    #rooms.aym4 .label-primary {background-color: #737373 !important;}
+    #rooms.aym4 .label-primary {background-color: #fff !important;}
 	
 
 	#rooms.aym4 .d-flex.room.r185d216c544xf56d9707xiat0nf .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
@@ -144,7 +144,7 @@ background-color: #737373;}
         background-color: #f5f5f5 !important;} 
 
 		#d2.aym2 .uzr.d-flex.mm.hmsg {
-        background-color: #737373!important;
+        background-color: #fff!important;
 }
 
 #d2bc.aym6.d2.light.d2bc.flex-grow-1.break {
