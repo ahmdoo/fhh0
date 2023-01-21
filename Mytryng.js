@@ -121,6 +121,7 @@ background-color: #737373;}
         background-color: #737373 !important;
         background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
         background-size: cover;
+text-color:#fff;
     }
     #chats.aym5 {
       background-color: #737373 !important;
