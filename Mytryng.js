@@ -31,7 +31,7 @@ $(`<style>#mic.aym3 .mic {
         animation: 5s rotate linear infinite;
         --angle: 0deg;
         background-color: #fff;
-        border-radius: 5px !important;
+        border-radius: 50px !important;
         margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
         height: 48px;}
         
