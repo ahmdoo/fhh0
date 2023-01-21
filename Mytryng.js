@@ -27,7 +27,7 @@ var rid='185d216c544xf56d9707xiat0nf';
 
 $(`<style>#mic.aym3 .mic {
         border: 2px solid;
-        border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #2C692C 67%, #fff 100%) 1;
+        border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
         background-color: #fff;
@@ -119,7 +119,7 @@ background-color: #737373;}
     #users.aym1 .inroom.uzr img.co{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #737373 !important;
-        background-image: url("");
+        background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
         background-size: cover;
     }
     #chats.aym5 {
