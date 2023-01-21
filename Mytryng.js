@@ -1,12 +1,6 @@
 $(`<style>.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf.bord {border-inline: 4px solid #fff !important;}
 
-.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf {display: inline-block;
-  background-image: url();
 
-background-size: 100%; 
-border-radius: 0px 0px 3px 3px;
-box-shadow: 0px 0px 1px 1px #fff;
-}
 
 
 
@@ -30,6 +24,7 @@ $(`<style>#mic.aym3 .mic {
         border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
+        background-color:#fff;
         border-radius: 50px !important;
         margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
         height: 48px;}
