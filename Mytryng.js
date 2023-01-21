@@ -30,8 +30,7 @@ $(`<style>#mic.aym3 .mic {
         border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
-background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg");
-        background-color: #fff;
+       background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg")!important;
         border-radius: 50px !important;
         margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
         height: 48px;}
