@@ -20,8 +20,7 @@ box-shadow: 0px 0px 1px 1px #fff;
 
 
  
-.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 2px !important;background-color: #transparent!important;}
-
+.nosel.d-flex.room.r1857dd13051x4df9b432x-raz5c7 .corner.fa.fa-user.label.label-primary.uc {letter-spacing: 1px;-webkit-text-fill-color: #000;background-image: url(https://g.top4top.io/p_2576zxw9j1.jpg);padding: 0px !important;border-radius: 8px !important;background-color: #737373;}
 }</style>`).insertBefore('body');
 var rid='185d216c544xf56d9707xiat0nf';
 
