@@ -20,24 +20,24 @@ var rid='185733aacfax813d4dd6x-t59vbn';
 
 
 $(`<style>#mic.aym3 .mic {
-        border: 2px solid;
-        border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1;
-        animation: 5s rotate linear infinite;
-        --angle: 0deg;
-        background-color:#fff;
+        border: 2px solid!important;
+        border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1!important;
+        animation: 5s rotate linear infinite!important;
+        --angle: 0deg!important;
+        background-color:#fff!important;
         border-radius: 50px !important;
-        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
-        height: 48px;}
+        margin: 2px!important;margin-top: 1px!important;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff!important;
+        height: 48px!important;}
         
         @keyframes rotate{
         to {
-            --angle: 360deg;
+            --angle: 360deg!important;
         }
     }
     @property --angle {
-        syntax: "<angle>";
-        initial-value: 0deg;
-        inherits: false;
+        syntax: "<angle>"!important;
+        initial-value: 0deg!important;
+        inherits: false!important;
     }</style>`).insertBefore('body');
 
 
