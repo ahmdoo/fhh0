@@ -30,6 +30,7 @@ $(`<style>#mic.aym3 .mic {
         border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
+background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg");
         background-color: #fff;
         border-radius: 50px !important;
         margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
@@ -119,7 +120,7 @@ background-color: #737373;}
     #users.aym1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #737373 !important;
-        background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
+        background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg");
         background-size: cover;
         text-color:#fff!important;
         
@@ -127,7 +128,7 @@ background-color: #737373;}
 
     #chats.aym5 {
       background-color: #737373 !important;
-      background-image: url("https://g.top4top.io/p_2576zxw9j1.jpg");
+      background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg");
       background-size: cover;
   }
 
