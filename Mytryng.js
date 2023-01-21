@@ -101,7 +101,7 @@ background-color: #737373;}
     display:inline-block;}
     
     #users.aym1 .uzr {
-        background-color: #fff !important;}
+        background-color: #737373 !important;}
       #users.aym1 {
         background-image: url("");
   background-size: cover;
@@ -125,12 +125,12 @@ background-color: #737373;}
       background-size: cover;
   }
 
-    #d0.aym {background-color: #fff;}
+    #d0.aym {background-color: #737373;}
     #d0.aym .label-primary {background-color: #fff;}
     chats
-    #settings.aym4 .label-primary {background-color: #fff !important;}
+    #settings.aym4 .label-primary {background-color: #737373 !important;}
 
-    #rooms.aym4 .label-primary {background-color: #fff !important;}
+    #rooms.aym4 .label-primary {background-color: #737373 !important;}
 	
 
 	#rooms.aym4 .d-flex.room.r185d216c544xf56d9707xiat0nf .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
