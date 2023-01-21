@@ -1,22 +1,22 @@
-$(`<style>.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf.bord {border-inline: 4px solid #fff !important;}
+$(`<style>.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn.bord {border-inline: 4px solid #fff !important;}
 
 
 
 
 
-.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf .fitimg.u-pic.borderg{border-radius: 100px!important;border: 1px solid #737373;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.0,.0,.0,.0) alternate infinite;}
+.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn .fitimg.u-pic.borderg{border-radius: 100px!important;border: 1px solid #737373;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.0,.0,.0,.0) alternate infinite;}
 
 
 
-.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 2px !important;}
+.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 2px !important;}
 
 
 
 
  
-.nosel.d-flex.room.r1857dd13051x4df9b432x-raz5c7 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {letter-spacing: 1px;-webkit-text-fill-color: #000;background-image: url(https://g.top4top.io/p_2576zxw9j1.jpg);padding: 0px !important;border-radius: 8px !important;background-color: #737373;}
+.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn .corner.fa.fa-user.label.uc.fa-microphone.label-danger {letter-spacing: 1px;-webkit-text-fill-color: #000;background-image: url(https://g.top4top.io/p_2576zxw9j1.jpg);padding: 0px !important;border-radius: 8px !important;background-color: #737373;}
 }</style>`).insertBefore('body');
-var rid='185d216c544xf56d9707xiat0nf';
+var rid='185733aacfax813d4dd6x-t59vbn';
 
 
 $(`<style>#mic.aym3 .mic {
@@ -113,7 +113,7 @@ background-color: #737373;}
     #users.aym1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #fff !important;
-        background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg");
+        background-image: url("https://e.top4top.io/p_2577zgki30.jpg");
         background-size: cover;
         text-color:#fff!important;
         
@@ -121,7 +121,7 @@ background-color: #737373;}
 
     #chats.aym5 {
       background-color: #737373 !important;
-      background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg");
+      background-image: url("https://e.top4top.io/p_2577zgki30.jpg");
       background-size: cover;
   }
 
@@ -133,7 +133,7 @@ background-color: #737373;}
     #rooms.aym4 .label-primary {background-color: #737373 !important;}
 	
 
-	#rooms.aym4 .d-flex.room.r185d216c544xf56d9707xiat0nf .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
+	#rooms.aym4 .d-flex.room.r185733aacfax813d4dd6x-t59vbn .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
 
     #rooms.aym4 {
         background-image: url("");
@@ -207,7 +207,7 @@ d2.aym2.flex-grow-1.break.light{
     var roomaymatest = false;
     
     setInterval(function () {
-        if (myroom == '185d216c544xf56d9707xiat0nf') {
+        if (myroom == '185733aacfax813d4dd6x-t59vbn') {
             if (roomaymatest == false) {
                 roomaymatest = true;
                 $('#users').addClass('aym1');
