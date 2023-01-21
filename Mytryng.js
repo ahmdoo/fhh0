@@ -130,7 +130,7 @@ background-color: #737373;}
     chats
     #settings.aym4 .label-primary {background-color: #fff !important;}
 
-    #rooms.aym4 .label-primary {background-color: #fff !important;}
+    #rooms.aym4 .label-primary {background-color: #737373 !important;}
 	
 
 	#rooms.aym4 .d-flex.room.r185d216c544xf56d9707xiat0nf .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
