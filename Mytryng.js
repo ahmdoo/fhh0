@@ -31,12 +31,12 @@ $(`<style>#mic.aym3 .mic {
         
         @keyframes rotate{
         to {
-            --angle: 360deg!important;
+            --angle: 360deg;
         }
     }
     @property --angle {
-        syntax: "<angle>"!important;
-        initial-value: 0deg!important;
+        syntax: "<angle>";
+        initial-value: 0deg;
         inherits: false!important;
     }</style>`).insertBefore('body');
 
