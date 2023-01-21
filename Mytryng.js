@@ -101,7 +101,7 @@ background-color: #737373;}
     display:inline-block;}
     
     #users.aym1 .uzr {
-        background-color: #737373 !important;}
+        background-color: #fff !important;}
       #users.aym1 {
         background-image: url("");
   background-size: cover;
@@ -112,7 +112,7 @@ background-color: #737373;}
 
     #users.aym1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
-        background-color: #737373 !important;
+        background-color: #fff !important;
         background-image: url("https://h.top4top.io/p_2577ev4lj0.jpg");
         background-size: cover;
         text-color:#fff!important;
