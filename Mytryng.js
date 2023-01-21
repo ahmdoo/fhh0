@@ -20,13 +20,6 @@ $(`<style>#mic.aym3 .mic {
     }</style>`).insertBefore('body');
 
 
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #fff;background-image: linear-gradient(-225deg, #fff 0%, #737373 29%, #737373 67%, #fff 100%);
-
-background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #fff !important;
-}`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px solid #0000;background-image: linear-gradient(-225deg, #fff 0%, #737373 29%, #737373 67%, #fff 100%);
-background-size: 220% auto;animation: textclip 5s linear infinite;border-radius: 50px !important;background-color: #fff !important;
-}`);
 
 
 
@@ -40,9 +33,7 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
       margin-top: -1px;
       min-height: 0% !important;
     }
-#users.aym1 .inroom.uzr .fitimg.u-pic {
-      border-radius: 2px 2px 2px 2px!important;
-}
+
 
     #d2.aym2 .uzr .fitimg.u-pic{
     border: 1px solid #737373;
