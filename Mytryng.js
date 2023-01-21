@@ -8,7 +8,6 @@ border-radius: 0px 0px 3px 3px;
 box-shadow: 0px 0px 1px 1px #fff;
 }
 
-.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf .dots.mini.u-msg {text-align: center;background-size: 200% auto; -webkit-background-clip: text;-webkit-text-fill-color: #fff;background-image: url();}
 
 
 .nosel.d-flex.room.r185d216c544xf56d9707xiat0nf .fitimg.u-pic.borderg{border-radius: 100px!important;border: 1px solid #737373;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.0,.0,.0,.0) alternate infinite;}
@@ -23,24 +22,23 @@ box-shadow: 0px 0px 1px 1px #fff;
  
 .nosel.d-flex.room.r185d216c544xf56d9707xiat0nf .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #fff;padding: 0px !important;border-radius: 2px !important;background-color: #transparent!important;}
 
-.nosel.d-flex.room.r185d216c544xf56d9707xiat0nf .u-topic.dots {text-transform: uppercase;background-image: linear-gradient(-225deg, #fff 0%, #2F7838 29%, #2F7838 67%, #fff 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 2s linear infinite;display: inline-block;}
-@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+}</style>`).insertBefore('body');
 var rid='185d216c544xf56d9707xiat0nf';
 
 
 $(`<style>#mic.aym3 .mic {
         border: 2px solid;
-        border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1;
+        border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #2C692C 67%, #fff 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
-        background-color: #737373;
+        background-color: #fff;
         border-radius: 5px !important;
         margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
         height: 48px;}
         
         @keyframes rotate{
         to {
-            --angle: 0deg;
+            --angle: 360deg;
         }
     }
     @property --angle {
