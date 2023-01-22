@@ -18,16 +18,25 @@ $(`<style>.nosel.d-flex.room.r185d08518c2x1c391f27xsgw6h1.bord {border-inline: 4
 }</style>`).insertBefore('body');
 var rid='185d08518c2x1c391f27xsgw6h1';
 
-$(`<style>#mic.3z3 .mic {border: 2px solid #C41A1A!important;border-image: linear-gradient(var(--angle), #998484 0%, #000000 29%, #998484 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #C41A1A;border-radius: 5px !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
-	to {
-		--angle: 360deg;
-	}
-}
-@property --angle {
-	syntax: "<angle>";
-	initial-value: 0deg;
-	inherits: false;
-
+$(`<style>#mic.3z3 .mic {
+        border: 2px solid;
+        border-image: linear-gradient(var(--angle), #C41A1A 0%, #fff 29%, #C41A1A 67%, #fff 100%) 1;
+        animation: 5s rotate linear infinite;
+        --angle: 0deg;
+        background-color: #fff;
+        border-radius: 5px !important;
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
+        height: 48px;}
+        
+        @keyframes rotate{
+        to {
+            --angle: 360deg;
+        }
+    }
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
     }</style>`).insertBefore('body');
 
 
@@ -101,7 +110,7 @@ background-color: #C41A1A;}
     
 
     #users.3z1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
-    #d2.aym2 {
+    #d2.3z2 {
         background-color: #fff !important;
         background-image: url("https://i.top4top.io/p_2578jewgo0.jpg");
         background-size: cover;
