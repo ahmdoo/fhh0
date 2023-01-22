@@ -75,14 +75,14 @@ $(`<style>#mic.ah3 .mic {
     }
 
     #d2.aym2 .uzr .fitimg.u-pic{
-    border: 1px solid #C41A1A;
-background-color: #C41A1A;
+    border: 1px solid #2F5C73;
+background-color: #2F5C73;
  border-radius: 2px 2px 2px 2px!important;
-        background-color: #C41A1A;
+        background-color: #2F5C73;
 }
 #d2.aym2 .uzr .d-flex.mm{
     border: 1px solid;
-background-color: #C41A1A;}
+background-color: #2F5C73;}
 
     #users.aym1 .uzr .u-msg{
 	font-weight:bold;
@@ -108,7 +108,7 @@ background-color: #C41A1A;}
       #users.aym1 {
         background-image: url("");
   background-size: cover;
-  background-color: #C41A1A !important;}
+  background-color: #2F5C73 !important;}
 
 
     
@@ -123,17 +123,17 @@ background-color: #C41A1A;}
     }
 
     #chats.aym5 {
-      background-color: #C41A1A !important;
+      background-color: #2F5C73 !important;
       background-image: url("https://b.top4top.io/p_2578oexol0.jpg");
       background-size: cover;
   }
 
-    #d0.aym {background-color: #C41A1A;}
+    #d0.aym {background-color: #2F5C73;}
     #d0.aym .label-primary {background-color: #fff;}
     chats
     #settings.aym4 .label-primary {background-color: #fff !important;}
 
-    #rooms.aym4 .label-primary {background-color: #C41A1A !important;}
+    #rooms.aym4 .label-primary {background-color: #2F5C73 !important;}
 	
 
 	#rooms.aym4 .d-flex.room.r185d08518c2x1c391f27xsgw6h1 .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
@@ -170,24 +170,24 @@ d2.aym2.flex-grow-1.break.light{
 #dpnl.aym7.label.nosel.ninr.fl.uzr.label.bg {
 	-webkit-text-fill-color: #fff;
 
-    background-color: #C41A1A;
+    background-color: #2F5C73;
     color: #fff;
   }
 #dpnl.aym7 .nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #fff;
 
-    background-color: #C41A1A;
+    background-color: #2F5C73;
   }
 #users.aym1.nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #fff;
 
-    background-color: #C41A1A;
+    background-color: #2F5C73;
   }
 
 #users.aym1.label.nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #fff;
 
-    background-color: #C41A1A;
+    background-color: #2F5C73;
   }
 
 
@@ -196,7 +196,7 @@ d2.aym2.flex-grow-1.break.light{
 #dpnl.aym9 .nosel.ninr.fl.uzr.label.bg {
 -webkit-text-fill-color: #ffffff;
 
-    background-color: #C41A1A !important;
+    background-color: #2F5C73 !important;
   }
 
 
