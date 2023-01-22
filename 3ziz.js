@@ -18,7 +18,7 @@ $(`<style>.nosel.d-flex.room.r185d08518c2x1c391f27xsgw6h1.bord {border-inline: 4
 }</style>`).insertBefore('body');
 var rid='185d08518c2x1c391f27xsgw6h1';
 
-$(`<style>#mic.3z3 .mic {
+$(`<style>#mic.3ez3 .mic {
         border: 2px solid!important;
         border-image: linear-gradient(var(--angle), #C41A1A 0%, #fff 29%, #C41A1A 67%, #fff 100%) 1!important;
         animation: 5s rotate linear infinite!important;
@@ -211,7 +211,7 @@ d2.3z2.flex-grow-1.break.light{
                 room3ztest = true;
                 $('#users').addClass('3z1');
                 $('#d2').addClass('3z2');
-                $('#mic').addClass('3z3');
+                $('#mic').addClass('3ez3');
                 $('#settings').addClass('3z4');
                 $('#rooms').addClass('3z4');
                 $('#d0').addClass('3z');
@@ -226,7 +226,7 @@ d2.3z2.flex-grow-1.break.light{
                 room3ztest = false;
                 $("#users").removeClass('3z1');
                 $("#d2").removeClass('3z2');
-                $('#mic').removeClass('3z3');
+                $('#mic').removeClass('3ez3');
                 $('#settings').removeClass('3z4');
                 $('#rooms').removeClass('3z4');
                 $('#d0').removeClass('3z');
