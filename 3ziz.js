@@ -33,7 +33,7 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
 
 
 
-$(`<style>#mic.3ez3 .mic {border: 2px solid #990000!important;border-image: linear-gradient(var(--angle), #998484 0%, #000000 29%, #998484 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #998484;border-radius: 5px !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
+$(`<style>#mic.ah3 .mic {border: 2px solid #990000!important;border-image: linear-gradient(var(--angle), #998484 0%, #000000 29%, #998484 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #998484;border-radius: 5px !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
 	to {
 		--angle: 360deg;
 	}
@@ -205,7 +205,7 @@ d2.3z2.flex-grow-1.break.light{
                 room3ztest = true;
                 $('#users').addClass('3z1');
                 $('#d2').addClass('3z2');
-                $('#mic').addClass('3ez3');
+                $('#mic').addClass('ah3');
                 $('#settings').addClass('3z4');
                 $('#rooms').addClass('3z4');
                 $('#d0').addClass('3z');
@@ -220,7 +220,7 @@ d2.3z2.flex-grow-1.break.light{
                 room3ztest = false;
                 $("#users").removeClass('3z1');
                 $("#d2").removeClass('3z2');
-                $('#mic').removeClass('3ez3');
+                $('#mic').removeClass('ah3');
                 $('#settings').removeClass('3z4');
                 $('#rooms').removeClass('3z4');
                 $('#d0').removeClass('3z');
