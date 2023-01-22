@@ -18,26 +18,16 @@ $(`<style>.nosel.d-flex.room.r185d08518c2x1c391f27xsgw6h1.bord {border-inline: 4
 }</style>`).insertBefore('body');
 var rid='185d08518c2x1c391f27xsgw6h1';
 
+$(`<style>#mic.3z3 .mic {border: 2px solid #C41A1A!important;border-image: linear-gradient(var(--angle), #998484 0%, #000000 29%, #998484 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #C41A1A;border-radius: 5px !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
+	to {
+		--angle: 360deg;
+	}
+}
+@property --angle {
+	syntax: "<angle>";
+	initial-value: 0deg;
+	inherits: false;
 
-$(`<style>#mic.aym3 .mic {
-        border: 2px solid!important;
-        border-image: linear-gradient(var(--angle), #737373 0%, #fff 29%, #737373 67%, #fff 100%) 1!important;
-        animation: 5s rotate linear infinite!important;
-        --angle: 0deg!important;
-        background-color:#fff!important;
-        border-radius: 50px !important;
-        margin: 2px!important;margin-top: 1px!important;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff!important;
-        height: 48px!important;}
-        
-        @keyframes rotate{
-        to {
-            --angle: 360deg;
-        }
-    }
-    @property --angle {
-        syntax: "<angle>";
-        initial-value: 0deg;
-        inherits: false!important;
     }</style>`).insertBefore('body');
 
 
