@@ -89,7 +89,7 @@ background-color: #2F5C73;}
         text-align: center;
         -webkit-text-fill-color: #fff;
         text-transform:uppercase;
-        background-image: linear-gradient(0deg, #C41A1A, #fff);
+        background-image: linear-gradient(0deg, #000, #fff);
     background-size: 100%;
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;animation:1s linear infinite textclip;
@@ -97,7 +97,7 @@ background-color: #2F5C73;}
 
     #users.aym1 .inroom.uzr span.uhash{
     text-transform:uppercase;
-    background-image: linear-gradient(0deg, #C41A1A, #fff);
+    background-image: linear-gradient(0deg, #2F5C73, #fff);
     background-size:220% auto;
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;animation:2s linear infinite textclip;
@@ -116,7 +116,7 @@ background-color: #2F5C73;}
     #users.aym1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #fff !important;
-        background-image: url("https://b.top4top.io/p_2578oexol0.jpg");
+        background-image: url("https://l.top4top.io/p_2578ngmi60.jpg");
         background-size: cover;
         text-color:#fff!important;
         
@@ -124,7 +124,7 @@ background-color: #2F5C73;}
 
     #chats.aym5 {
       background-color: #2F5C73 !important;
-      background-image: url("https://b.top4top.io/p_2578oexol0.jpg");
+      background-image: url("https://l.top4top.io/p_2578ngmi60.jpg");
       background-size: cover;
   }
 
