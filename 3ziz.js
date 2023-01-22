@@ -19,14 +19,14 @@ $(`<style>.nosel.d-flex.room.r185d08518c2x1c391f27xsgw6h1.bord {border-inline: 4
 var rid='185d08518c2x1c391f27xsgw6h1';
 
 $(`<style>#mic.3z3 .mic {
-        border: 2px solid;
-        border-image: linear-gradient(var(--angle), #C41A1A 0%, #fff 29%, #C41A1A 67%, #fff 100%) 1;
-        animation: 5s rotate linear infinite;
+        border: 2px solid!important;
+        border-image: linear-gradient(var(--angle), #C41A1A 0%, #fff 29%, #C41A1A 67%, #fff 100%) 1!important;
+        animation: 5s rotate linear infinite!important;
         --angle: 0deg;
-        background-color: #fff;
+        background-color: #fff!important;
         border-radius: 5px !important;
-        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
-        height: 48px;}
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff!important;
+        height: 48px!important;}
         
         @keyframes rotate{
         to {
