@@ -33,16 +33,26 @@ background-size: 220% auto;animation: textclip 5s linear infinite;border-radius:
 
 
 
-$(`<style>#mic.ah3 .mic {border: 2px solid #990000!important;border-image: linear-gradient(var(--angle), #998484 0%, #000000 29%, #998484 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #998484;border-radius: 50px !important;margin: 20px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
-	to {
-		--angle: 360deg;
-	}
-}
-@property --angle {
-	syntax: "<angle>";
-	initial-value: 0deg;
-	inherits: false;
-}</style>`).insertBefore('body');
+$(`<style>#mic.ah3 .mic {
+        border: 2px solid;
+        border-image: linear-gradient(var(--angle), #2F5C73 0%, #fff 29%, #2F5C73 67%, #fff 100%) 1;
+        animation: 5s rotate linear infinite;
+        --angle: 0deg;
+        background-color: #fff;
+        border-radius: 5px !important;
+        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
+        height: 48px;}
+        
+        @keyframes rotate{
+        to {
+            --angle: 360deg;
+        }
+    }
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }</style>`).insertBefore('body');
 
  $("style").last().append(`
     
