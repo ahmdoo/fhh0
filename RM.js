@@ -11,12 +11,12 @@ $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px sol
 
 
 $(`<style>#mic.rm3 .mic {
-        border: 2px solid;
-        border-image: linear-gradient(var(--angle), #4D6BBF 0%, #fff 29%, #4D6BBF 67%, #fff 100%) 1;
+        border: 2px solid #4D6BBF;
+        border-image: linear-gradient(var(--angle), #4D6BBF 29%, #fff 29%, #4D6BBF 67%, #fff 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
         background-color: #fff;
-        border-radius: 18px !important;
+        border-radius: 2px !important;
         margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
         height: 48px;}
         
@@ -105,12 +105,12 @@ background-color: #4D6BBF;}
       background-size: cover;
   }
 
-    #d0.rm {background-color: #4D6BBF;}
+    #d0.rm {background-color: #564257;}
     #d0.rm .label-primary {background-color: #fff;}
     chats
     #settings.rm4 .label-primary {background-color: #fff !important;}
 
-    #rooms.rm4 .label-primary {background-color: #4D6BBF !important;}
+    #rooms.rm4 .label-primary {background-color: #564257 !important;}
 	
 
 	#rooms.rm4 .d-flex.room.185de960e6bxb41a5a55x-kgpp3v .label-primary {background-color: transparent !important;etter-spacing: 1px;-webkit-text-fill-color: #000;padding: 0px !important;border-radius: 50px !important;}
