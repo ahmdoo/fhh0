@@ -8,28 +8,17 @@ $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px sol
 
 
 
+$(`<style>#mic.rm3 .mic {border: 2px solid!important;border-image: linear-gradient(var(--angle), #54A3D1 0%, #000000 29%, #6CA9CB 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #e3e3e3;border-radius: 5px !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
+	to {
+		--angle: 360deg;
+	}
+}
+@property --angle {
+	syntax: "<angle>";
+	initial-value: 0deg;
+	inherits: false;
+}</style>`).insertBefore('body');
 
-
-$(`<style>#mic.rm3 .mic {
-        border: 2px solid #4D6BBF!important;
-        border-image: linear-gradient(var(--angle), #4D6BBF 29%, #fff 29%, #4D6BBF 67%, #fff 100%) 1;
-        animation: 5s rotate linear infinite;
-        --angle: 0deg;
-        background-color: #fff;
-        border-radius: 2px !important;
-        margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;
-        height: 48px;}
-        
-        @keyframes rotate{
-        to {
-            --angle: 360deg;
-        }
-    }
-    @property --angle {
-        syntax: "<angle>";
-        initial-value: 0deg;
-        inherits: false;
-    }</style>`).insertBefore('body');
 
  $("style").last().append(`
     
