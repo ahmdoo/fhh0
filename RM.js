@@ -93,7 +93,7 @@ background-color: #4D6BBF;}
     #users.rm1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
     #d2.rm2 {
         background-color: #fff !important;
-        background-image: url("");
+        background-image: url("https://k.top4top.io/p_25795k77g0.jpg");
         background-size: cover;
         text-color:#fff!important;
         
@@ -101,7 +101,7 @@ background-color: #4D6BBF;}
 
     #chats.rm5 {
       background-color: #fff !important;
-      background-image: url("");
+      background-image: url("https://k.top4top.io/p_25795k77g0.jpg");
       background-size: cover;
   }
 
