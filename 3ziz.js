@@ -116,15 +116,15 @@ background-color: #2F5C73;}
     #users.aym1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
     #d2.aym2 {
         background-color: #fff !important;
-        background-image: url("https://f.top4top.io/p_2578qnhmc0.jpg");
+        background-image: url("");
         background-size: cover;
         text-color:#fff!important;
         
     }
 
     #chats.aym5 {
-      background-color: #2F5C73 !important;
-      background-image: url("https://f.top4top.io/p_2578qnhmc0.jpg");
+      background-color: #fff !important;
+      background-image: url("د");
       background-size: cover;
   }
 
