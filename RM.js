@@ -11,7 +11,7 @@ $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px sol
 
 
 $(`<style>#mic.rm3 .mic {
-        border: 2px solid #4D6BBF;
+        border: 2px solid #4D6BBF!important;
         border-image: linear-gradient(var(--angle), #4D6BBF 29%, #fff 29%, #4D6BBF 67%, #fff 100%) 1;
         animation: 5s rotate linear infinite;
         --angle: 0deg;
