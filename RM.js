@@ -82,7 +82,7 @@ background-color: #4D6BBF;}
     #users.rm1 .inroom.uzr img.co,u-msg.break{transform:rotate(20deg);margin-top:2px!important}
     #d2.rm2 {
         background-color: #fff !important;
-        background-image: url("https://h.top4top.io/p_2580ob3fq0.jpg");
+        background-image: url("");
         background-size: cover;
         text-color:#fff!important;
         
