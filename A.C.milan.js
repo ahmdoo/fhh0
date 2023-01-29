@@ -108,7 +108,7 @@ $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{border: 0px sol
 
 
 
-$(`<style>#mic.mh3 .mic {border: 2px solid #CBBB53!important;border-image: linear-gradient(var(--angle), #998484 0%, #000000 29%, #998484 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #998484;border-radius: 5px !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
+$(`<style>#mic.mh3 .mic {border: 2px solid #CBBB53!important;border-image: linear-gradient(var(--angle), #CBBB53 0%, #000000 29%, #CBBB53 67%, #020202 100%) 1 !important;animation: 5s rotate linear infinite;--angle: 0deg;background-color: #CBBB53;border-radius: 5px !important;margin: 2px;margin-top: 1px;box-shadow: inset 0 0px 0px rgb(0 0 0 / 8%), 0 0px 1px #ffffff;height: 48px;}@keyframes rotate {
 	to {
 		--angle: 360deg;
 	}
@@ -142,7 +142,7 @@ border-bottom:1px solid #fffefe
   max-height: 50px;
 }
 
-#chats.mh {
+#chats.mh4 {
       background-color: #fff !important;
       background-image: url("https://c.top4top.io/p_2585llp8l1.jpg");
       background-size: cover;
