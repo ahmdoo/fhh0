@@ -2,7 +2,7 @@ $(`<style>.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn.bord {border-inline: 
 
 
 
-{display: inline-block;background-image: url(https://d.top4top.io/p_2585xv4o02.jpg)!important; background-size: 100%; border-radius: 0px 25px 25px 25px;}
+.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn {display: inline-block;background-image: url(https://e.top4top.io/p_2577zgki30.jpg)!important; background-size: 100%; border-radius: 0px 25px 25px 25px;}
 
 .nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn .fitimg.u-pic.borderg{border-radius: 100px!important;border: 1px solid #737373;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.0,.0,.0,.0) alternate infinite;}
 
