@@ -13,7 +13,7 @@ $(`<style>.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn.bord {border-inline: 
 
 
  
-.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-image: url(https://g.top4top.io/p_2576zxw9j1.jpg);letter-spacing: 1px;-webkit-text-fill-color: ##ddd;padding: 0px !important;border-radius: 50px !important;background-color: #737373;}
+.nosel.d-flex.room.r185733aacfax813d4dd6x-t59vbn .corner.fa.fa-user.label.uc.fa-microphone.label-danger {background-image: url(https://e.top4top.io/p_2577zgki30.jpg)!important;letter-spacing: 1px;-webkit-text-fill-color: ##ddd;padding: 0px !important;border-radius: 50px !important;background-color: #;}
 
 }</style>`).insertBefore('body');
 var rid='185733aacfax813d4dd6x-t59vbn';
