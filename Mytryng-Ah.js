@@ -125,7 +125,7 @@ background-color: #737373;}
       background-size: cover;
   }
 
-    #d0.aym {background-color: #737373;}
+    #d0.aym {color:#737373;background-color: #737373;}
     #d0.aym .label-primary {background-color: #fff;}
     chats
     #settings.aym4 .label-primary {background-color: #fff !important;}
@@ -218,7 +218,7 @@ d2.aym2.flex-grow-1.break.light{
                 $('#d0').addClass('aym');
                 $('#chats').addClass('aym5');
                 $('#d2bc').addClass('aym6');
-                $('.label-primary').addClass('aym');
+                $('.label-primary').addClass('aym0');
 				$('#users').addClass('stl1');
 				$('#dpnl').addClass('aym7');
 				$('#dpnl').addClass('aym9');
@@ -234,7 +234,7 @@ d2.aym2.flex-grow-1.break.light{
                 $('#d0').removeClass('aym');
                 $('#chats').removeClass('aym5');
                 $('#d2bc').removeClass('aym6');
-                $('.label-primary').removeClass('aym');
+                $('.label-primary').removeClass('aym0');
 				$('#users').removeClass('stl1');
 				$('#dpnl').removeClass('aym7');
 				$('#dpnl').removeClass('aym9');
