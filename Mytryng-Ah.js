@@ -218,7 +218,7 @@ d2.aym2.flex-grow-1.break.light{
                 $('#d0').addClass('aym');
                 $('#chats').addClass('aym5');
                 $('#d2bc').addClass('aym6');
-                $('.label-primary').addClass('aym0');
+                $('.label-primary').addClass('aym');
 				$('#users').addClass('stl1');
 				$('#dpnl').addClass('aym7');
 				$('#dpnl').addClass('aym9');
@@ -234,7 +234,7 @@ d2.aym2.flex-grow-1.break.light{
                 $('#d0').removeClass('aym');
                 $('#chats').removeClass('aym5');
                 $('#d2bc').removeClass('aym6');
-                $('.label-primary').removeClass('aym0');
+                $('.label-primary').removeClass('aym');
 				$('#users').removeClass('stl1');
 				$('#dpnl').removeClass('aym7');
 				$('#dpnl').removeClass('aym9');
