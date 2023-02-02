@@ -126,7 +126,7 @@ background-color: #737373;}
   }
 
     #d0.aym {color:#737373;background-color: #737373;}
-    #d0.aym .label-primary {color:#fff!important;background-color: #525252;}
+    #d0.aym .fa-commenting-o {color:#fff!important;background-color: #525252!important;}
     chats
     #settings.aym4 .label-primary {background-color: #fff !important;}
 
