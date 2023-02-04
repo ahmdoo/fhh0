@@ -65,7 +65,7 @@ margin-top: 17px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
-  border-radius: 4px;
+  border-radius: 19px;
    
   
   border: 1px solid #fff;
