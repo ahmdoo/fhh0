@@ -69,8 +69,8 @@ margin-top: 17px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://d.top4top.io/p_2591owyx50.png);
-background-size: 80%;
+ background-image: url(https://e.top4top.io/p_2591c211g0.png);
+background-size: 100%;
     
 }
 
@@ -107,7 +107,7 @@ var mua2=setInterval(function(){
 		
 		
 		
-        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://e.top4top.io/p_2591c211g0.png">');
+        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://l.top4top.io/p_25910b4jj0.png">');
 		
 		
 		
