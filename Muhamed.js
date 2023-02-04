@@ -63,13 +63,12 @@ margin-top: 17px !important;
 
 #users .uzr.muh {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
+  
   border-radius: 19px;
    
   
   border: 1px solid #fff;
- background-image: url(https://k.top4top.io/p_2591uh1ft0.png);
+ background-image: url(https://f.top4top.io/p_2591r4hmd0.png);
 background-size: contain;
 background-repeat: no-repeat;
 background-position: right; 
