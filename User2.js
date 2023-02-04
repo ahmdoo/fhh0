@@ -72,6 +72,7 @@ margin-top: 17px !important;
  background-image: url(https://k.top4top.io/p_2591uh1ft0.png);
 background-size: contain;
 background-repeat: no-repeat;
+background-position: right; 
 }
 
 
