@@ -1,111 +1,110 @@
 $("style").last().append(`
 
 
-#users .uzr.msh3 img.ustat {
-      width:10px!important;height:10px!important;min-height:0%!important;margin-right:2px;z-index:999999;border-radius:3px 3px 3px 3px;border:1px solid #fff0}
 
-#users .uzr.msh3 .fitimg.u-pic {
-	border-radius: 5px !important;
-margin-left: 2px;
+#users .uzr.waed span.uhash{
+    text-transform:uppercase;
+    -webkit-text-fill-color:#fff;
+    display:inline-block;}
+
+
+#users .uzr.waed img.u-ico {
+    
+     margin-left: 3px;
+      
+    }
+
+#users .uzr.waed img.ustat {
+      width: 0px !important;
+      border-radius: 100px;
+      height: 0px;
+     
+      
+    }
+
+#users .uzr.waed .fitimg.u-pic {
+  border-radius: 5px 5px 5px 5px !important;
+  margin-top: 9px !important;
   height: 52px !important;
-  
+  margin-left: 12px!important;
   z-index: 0 !important;
-margin-bottom: 6px !important;
-
-border:1px solid #fff;margin-top:2px;border-radius:5px;
-box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 6px #d8d8d8
+margin-bottom: 9px !important;
+padding: 29px !important;
+border:1px solid #000;margin-top:2px;border-radius:5px;
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 4px #000
 }
-  
-#users .uzr.msh3 .u-msg {
-	
+
+#users .uzr.waed .u-msg {
+	text-align: center;
   -webkit-background-clip: text;
   
   font-size: 93% !important;
   -webkit-text-fill-color: #0000;
- background-image: url(https://up6.cc/2022/12/167183568860261.gif);
+ background-image: url(https://up6.cc/2023/01/167458934291671.gif);
   padding: 0px !important;
-	margin-bottom: 6px !important;
-margin-left: 10px;
+	margin-bottom: 20px !important;
+margin-left: 5px;
 background-size: cover;
-margin-top: 8px !important;
-}
+margin-top: 10px !important;
 
-#users .uzr.msh3 span.uhash {
-  margin-right: 324px;
-  margin-top: 24px;
-  margin-left: 0px;
-}
-
-#users .uzr.msh3 img.co {
-  transform: rotate(90deg);
-  margin-top: -60px !important;
-  margin-right: 282px;
 }
 
 
-#users .uzr.msh3 {
+
+
+
+#users .uzr.waed {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
   border-radius: 4px;
   background-image: 
   border: 1px solid #fff;
-background-image: linear-gradient(-225deg, rgb(202, 202, 202) 0%, rgba(255, 0, 143, 0) 29%, rgba(151, 101, 127, 0.04) 67%, rgb(198, 198, 198) 100%);  
+background-image: url(https://up6.cc/2023/01/167458804102671.gif);
+background-size: 100%;
 }
 
 
-#users .uzr.msh3 .c-flex.fr {
-  margin-left: -4px!important;
-  float: left;
-}
-
-#users .uzr.msh3 .d-flex.fl {
+#users .uzr.waed .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.msh3 .u-topic {
-	-webkit-text-fill-color: transparent;
-  margin-left: 5px;
+#users .uzr.waed .u-topic {
+  text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    
+    
+    
+    background-image: url(https://up6.cc/2023/01/167458823850831.gif);
+    -webkit-background-clip: text;
+    color: transparent !important;
+    background-size: cover;
+}
 
+#users .uzr.waed .itar_waeda {
+ width: 83px;
+height: 77px;
+margin-top: -38px;
+cursor: pointer;
+margin-left: -40px;
 }
 
 
 
-
-#users .uzr.msh3 .My_vedio9 {
-  float: right;
-  width: 20px;
-  margin-top: 1px;
-  margin-right: 0px;
-  cursor: pointer;
-}
 
 `);
 
-var l_itvmsh3=setInterval(function(){
+var l_itvwaed=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itvmsh3);
-        $("#users .uzr:contains('*Admin')").addClass('msh3');
+        clearInterval(l_itvwaed);
+       $("#users .uzr:contains('Admin')").addClass('waed');
+		
+		
+		
+		
+        
+     
 
-        $("#users .uzr span.u-topic:contains('*Admin')").after('<img id="mystory" class="My_vedio9" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
-    
-        $("#users .uzr.msh3 span.uhash, #users .uzr.msh3 img.co").hide(); 
-
-
-        $("#upro").before('<div id="movon" onclick="$(this).hide().html(``);" class="moveon" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
-        
-        
-        
-        $("div#users .uzr:contains('*Admin') .My_vedio9").click(function(){
-        $("#movon").show();
-        
-        $('#movon').addClass('msh3');
-        $("#movon").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
-        $("#movon").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
-        $("#movon").append('<iframe id="ifr_mov9" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/0pw_MtWb4ig" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
-       $("#ifr_mov9").show(function(){
-        $("#upro").modal("hide");
-    } ); 
-});
     }
 }, 20000);
