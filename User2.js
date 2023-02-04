@@ -70,8 +70,8 @@ margin-top: 17px !important;
   
   border: 1px solid #fff;
  background-image: url(https://k.top4top.io/p_2591uh1ft0.png);
-background-size: 230px 140px;
-    
+background-size: contain;
+background-repeat: no-repeat;
 }
 
 
