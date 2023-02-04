@@ -92,6 +92,7 @@ height: 89px;
 margin-top: -53px;
 cursor: pointer;
 margin-left: -65px;
+border-radius: 19px;
 }
 
 
@@ -103,7 +104,7 @@ margin-left: -65px;
 var mua2=setInterval(function(){
     if(myid!=null){
         clearInterval(mua2);
-       $("#users .uzr:contains('Admin')").addClass('muh');
+       $("#users .uzr:contains('June')").addClass('muh');
 		
 		
 		
