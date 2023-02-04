@@ -69,7 +69,7 @@ margin-top: 17px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://k.top4top.io/p_2591uh1ft0.png);
+ background-image: url(https://h.top4top.io/p_2591cxwxc0.png);
 background-size: contain;
 background-repeat: no-repeat;
 background-position: right; 
@@ -104,12 +104,12 @@ border-radius: 19px;
 var mua2=setInterval(function(){
     if(myid!=null){
         clearInterval(mua2);
-       $("#users .uzr:contains('June')").addClass('muh');
+       $("#users .uzr:contains('@:')").addClass('muh');
 		
 		
 		
 		
-        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://l.top4top.io/p_25910b4jj0.png">');
+        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://a.top4top.io/p_2591q1rdn0.png">');
 		
 		
 		
