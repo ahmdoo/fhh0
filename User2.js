@@ -69,9 +69,9 @@ margin-top: 17px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://e.top4top.io/p_2591c211g0.png);
-background-size: 100%;
-    
+ background-image: url(https://k.top4top.io/p_2591uh1ft0.png);
+background-size: 90%;
+    margin-left: -35px;
 }
 
 
