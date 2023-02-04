@@ -88,7 +88,7 @@ background-position: right;
 #users .uzr.muh .itarr_muh {
  width: 132px;
 height: 89px;
-margin-top: -53px;
+margin-top: -49px;
 cursor: pointer;
 margin-left: -65px;
 border-radius: 19px;
