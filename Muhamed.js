@@ -63,7 +63,8 @@ margin-top: 17px !important;
 
 #users .uzr.muh {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  
+  margin-bottom: 0px !important;
+  margin-top: 0px !important;
   border-radius: 19px;
    
   
