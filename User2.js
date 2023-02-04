@@ -1,25 +1,25 @@
 $("style").last().append(`
 
-#users .uzr.siggm img.co {
+#users .uzr.muh img.co {
   transform: rotate(90deg);
   margin-top: -60px !important;
   margin-right: 340px;
 }
 
-#users .uzr.siggm span.uhash{
+#users .uzr.muh span.uhash{
     margin-right: 350px;
   margin-top: 24px;
   margin-left: 0px;}
 
 
-#users .uzr.siggm img.u-ico {
+#users .uzr.muh img.u-ico {
     
      
 
       
     }
 
-#users .uzr.siggm img.ustat {
+#users .uzr.muh img.ustat {
       width: 54px !important;
   border-radius: 0px 50px 50px 50px !important;
   height: 52px !important;
@@ -31,7 +31,7 @@ $("style").last().append(`
       
     }
 
-#users .uzr.siggm .fitimg.u-pic {
+#users .uzr.muh .fitimg.u-pic {
   border-radius: 100px !important;
   margin-top: 23px !important;
   height: 52px !important;
@@ -41,7 +41,7 @@ margin-bottom: 9px !important;
 padding: 30px !important;
 }
 
-#users .uzr.siggm .u-msg {
+#users .uzr.muh .u-msg {
 	text-align: center;
   -webkit-background-clip: text;
   
@@ -61,7 +61,7 @@ margin-top: 17px !important;
 
 
 
-#users .uzr.siggm {
+#users .uzr.muh {
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
@@ -69,23 +69,23 @@ margin-top: 17px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/01/167502964532871.png);
+ background-image: url(https://d.top4top.io/p_2591owyx50.png);
 background-size: 100%;
     
 }
 
 
 
-#users .uzr.siggm .d-flex.fl {
+#users .uzr.muh .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.siggm .u-topic {
+#users .uzr.muh .u-topic {
 -webkit-text-fill-color: transparent;
   margin-left: 5px;
 }
 
-#users .uzr.siggm .itarr_siggma {
+#users .uzr.muh .itarr_siggma {
  width: 132px;
 height: 89px;
 margin-top: -53px;
@@ -99,15 +99,15 @@ margin-left: -65px;
 
 `);
 
-var l_itvsiggm=setInterval(function(){
+var mua2=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itvsiggm);
-       $("#users .uzr:contains('نووتس')").addClass('siggm');
+        clearInterval(mua2);
+       $("#users .uzr:contains('Admin')").addClass('muh');
 		
 		
 		
 		
-        $("#users .uzr.siggm .fitimg.u-pic").append('<img class="itarr_siggma" title="اطاري" src="https://up6.cc/2023/01/167502705207422.png">');
+        $("#users .uzr.siggm .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://l.top4top.io/p_2591imvu10.png">');
 		
 		
 		
