@@ -85,7 +85,7 @@ background-size: 100%;
   margin-left: 5px;
 }
 
-#users .uzr.muh .itarr_siggma {
+#users .uzr.muh .itarr_muh {
  width: 132px;
 height: 89px;
 margin-top: -53px;
@@ -107,7 +107,7 @@ var mua2=setInterval(function(){
 		
 		
 		
-        $("#users .uzr.siggm .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://l.top4top.io/p_2591imvu10.png">');
+        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://l.top4top.io/p_2591imvu10.png">');
 		
 		
 		
