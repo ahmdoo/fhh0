@@ -3,7 +3,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/02/16753376152961.png); background-size: cover;color: #666666;
+background-image: url(https://j.top4top.io/p_2592gtc3g0.png); background-size: cover;color: #666666;
 }`);
 
 
@@ -21,11 +21,11 @@ $(`<style>
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
-  background-color: #d9534f00;
+  background-color: #c2c2c2;
   text-align: left!important;
   margin-left: 45px!important;
 }
-.nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8.bord {border-inline: 0px solid #c2c2c2 !important;}
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .dots.mini.u-msg {
     text-align: center;
     margin-top: 18px !important;
@@ -45,7 +45,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .fitimg.u-pic.borderg {
   border-radius: 100px;
-  border: 2px solid #cc8321;
+  border: 2px solid #c2c2c2;
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
@@ -58,7 +58,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .u-topic.dots {
   text-transform: uppercase;
-  -webkit-text-fill-color: #e8a64d00;
+  -webkit-text-fill-color: #c2c2c2;
   animation: textclip 2s linear infinite;
   display: inline-block;
   margin-left: 10px;
@@ -97,7 +97,7 @@ $("style").last().append(`
 }
 #upro.mshanaa1 .modal-header.label-primary {
   border-radius:  10px 0 10px!important;
-  border: 1px solid #ecdce4;
+  border: 1px solid #A4A4A4;
   background-color: #b2b2b2!important;
   background-image: url(https://c.top4top.io/p_2592hyje30.png);
   background-size: cover;
@@ -123,7 +123,7 @@ height: 52px;
 }
 #d0.mshanaa1 {
   border-radius:  10px 0 10px!important;
-  border: 1px solid #ecdce41c;
+  border: 1px solid #A4A4A4;
   background-image: url(https://c.top4top.io/p_2592hyje30.png);
   background-size: cover;
 }
@@ -131,7 +131,7 @@ height: 52px;
 #users.mshanaa1 .mini.u-msg{text-align:center;}#dpnl.mshanaa1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.mshanaa1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.mshanaa1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #d9cfc1!important;
+    background-color: #A4A4A4!important;
     border: 1px solid #efefef!important;
 }
 #users.mshanaa1 img.ustat {
@@ -163,7 +163,7 @@ height: 52px;
 }
 #settings.mshanaa1 .label-primary {
   border-radius:  10px 0 10px!important;
-  border: 1px solid #ecdce4;
+  border: 1px solid #A4A4A4;
   background-color: #b2b2b2!important;
   background-image: url(https://c.top4top.io/p_2592hyje30.png);
   background-size: cover;
@@ -171,7 +171,7 @@ height: 52px;
 }
 #settings.mshanaa1 .btn-primary {
   border-radius:  10px 0 10px!important;
-  border: 1px solid #ecdce4;
+  border: 1px solid #A4A4A4;
   background-color: #b2b2b2!important;
   background-image: url(https://c.top4top.io/p_2592hyje30.png);
   background-size: cover;
@@ -180,7 +180,7 @@ height: 52px;
 #settings.mshanaa1 .bg-primary{background-color:#9d8980!important}#d0.mshanaa1 .btn-primary{background-color:#9d8980!important}
 #users.mshanaa1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #d9cfc1;
+    background-color: #A4A4A4;
     border: 1px solid #efefef;
 }
 #room.mshanaa1 #mic{
@@ -189,7 +189,7 @@ background-size: cover;
 border-radius:  10px 0 10px!important;
 }
 
-#d0.mshanaa1 .nosel.fl .bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d0.mshanaa1 .bg-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d2.mshanaa1 .label-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}
+#d0.mshanaa1 .nosel.fl .bg{background-image:linear-gradient(225deg,#fff 0%,#A4A4A4 29%,#fff 67%,#A4A4A4 100%)}#d0.mshanaa1 .bg-primary{background-image:linear-gradient(225deg,#fff 0%,#A4A4A4 29%,#fff 67%,#A4A4A4 100%)}#d2.mshanaa1 .label-primary{background-image:linear-gradient(225deg,#fff 0%,#A4A4A4 29%,#fff 67%,#A4A4A4 100%)}
 #room.mshanaa1 .btn-primary {
     border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
@@ -201,8 +201,8 @@ border-radius:  10px 0 10px!important;
 #d2.mshanaa1{background-color:#fff !important;}
 #room.mshanaa1 .tablebox.d-flex.footer.fl.light {
     border-radius:  10px 0 10px!important;
-    border: 1px solid #ecdce4;
-    background-color: #d9cfc1;
+    border: 1px solid #A4A4A4;
+    background-color: #c2c2c2;
 }
 #upro.mshanaa1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
@@ -236,13 +236,13 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 .corner.border.label.label-primary.mshanaa1 {
   border-radius:  10px 0 10px!important;
-  border: 1px solid #ecdce4;
+  border: 1px solid #A4A4A4;
   background-image: url(https://c.top4top.io/p_2592hyje30.png);
   background-size: cover;
 }
 .modal-header.label-primary.mshanaa1 {
 	border-radius:  10px 0 10px!important;
-    border: 1px solid #ecdce4;
+    border: 1px solid #A4A4A4;
     background-color: #b2b2b2!important;
 	background-image: url(https://c.top4top.io/p_2592hyje30.png);
     background-size: cover;
@@ -271,14 +271,14 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 #rooms.mshanaa1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.mshanaa1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.mshanaa1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
 input.mshanaa1 {
   border-radius:  10px 0 10px!important;
-  border: 1px solid #ecdce4;
+  border: 1px solid #A4A4A4;
 }
 .dots.mshanaa1 {
   border-radius:  10px 0 10px!important;
 }
 .tc.mshanaa1 {
   border-radius:  10px 0 10px!important;
-  border: 1px solid #ecdce4;
+  border: 1px solid #A4A4A4;
 }
 .fl.u-pic.fitimg.mshanaa1 {
   border: 1px solid;
