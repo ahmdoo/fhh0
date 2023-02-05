@@ -38,11 +38,11 @@ $(`<style>
 	background-size: 90% 100%;
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 {
-    height:40%!important;
     background-image: url(https://k.top4top.io/p_2592oasta0.jpg);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
+Height:50%;
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .fitimg.u-pic.borderg {
   border-radius: 100px;
