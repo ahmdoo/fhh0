@@ -42,7 +42,7 @@ $(`<style>
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
-    height: 60%;
+    height: 20%;
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .fitimg.u-pic.borderg {
   border-radius: 100px;
