@@ -39,7 +39,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 {
     background-image: url(https://k.top4top.io/p_2592oasta0.jpg);
-    background-size: cover;
+    background-size: 60%;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
