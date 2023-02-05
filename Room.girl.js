@@ -19,7 +19,7 @@ $(`<style>
   -webkit-text-fill-color: #6e6e6e;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 40px !important;
+  margin-top: 30px !important;
   margin-bottom: 0px !important;
   background-color: #c2c2c2;
   text-align: left!important;
@@ -30,7 +30,7 @@ $(`<style>
     text-align: center;
     margin-top: 18px !important;
 	margin-left: 11px;
-	-webkit-text-fill-color: #F7F7F7;
+	-webkit-text-fill-color: transparent;
 	animation: textclip 2s linear infinite;
 	background-image: url(https://up6.cc/2023/02/167536001950611.gif);
 	-webkit-background-clip: text;
@@ -42,7 +42,7 @@ $(`<style>
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
-    height: 20%;
+    height: 60%;
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .fitimg.u-pic.borderg {
   border-radius: 100px;
@@ -59,7 +59,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .u-topic.dots {
   text-transform: uppercase;
-  -webkit-text-fill-color: #F7F7F7;
+  -webkit-text-fill-color: transparent;
   animation: textclip 2s linear infinite;
   display: inline-block;
   margin-left: 10px;
