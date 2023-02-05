@@ -30,7 +30,7 @@ $(`<style>
     text-align: center;
     margin-top: 18px !important;
 	margin-left: 11px;
-	-webkit-text-fill-color: transparent;
+	-webkit-text-fill-color: F7F7F7;
 	animation: textclip 2s linear infinite;
 	background-image: url(https://up6.cc/2023/02/167536001950611.gif);
 	-webkit-background-clip: text;
@@ -38,8 +38,9 @@ $(`<style>
 	background-size: 90% 100%;
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 {
+    height:40%!important;
     background-image: url(https://k.top4top.io/p_2592oasta0.jpg);
-    background-size: 60%;
+    background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
@@ -58,7 +59,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r1861e5c3219xd5a8e6d2xm4pea8 .u-topic.dots {
   text-transform: uppercase;
-  -webkit-text-fill-color: #c2c2c2;
+  -webkit-text-fill-color: #F7F7F7;
   animation: textclip 2s linear infinite;
   display: inline-block;
   margin-left: 10px;
