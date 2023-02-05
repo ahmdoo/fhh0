@@ -115,4 +115,4 @@ var mua2=setInterval(function(){
 		
 
     }
-}, 20000);
+}, 10000);
