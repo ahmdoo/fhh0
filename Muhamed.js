@@ -69,7 +69,7 @@ margin-top: 17px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://f.top4top.io/p_2591r4hmd0.png);
+ background-image: url(https://i.top4top.io/p_2792lb5s10.jpg);
 background-size: contain;
 background-repeat: no-repeat;
 background-position: right; 
@@ -87,12 +87,10 @@ background-position: right;
 }
 
 #users .uzr.muh .itarr_muh {
- width: 132px;
-height: 89px;
-margin-top: -49px;
-cursor: pointer;
-margin-left: -65px;
-border-radius: 19px;
+   width: 100px;
+  margin-top: -74px;
+  margin-left: -10px;
+  height: 96px;
 }
 
 
@@ -104,12 +102,12 @@ border-radius: 19px;
 var mua2=setInterval(function(){
     if(myid!=null){
         clearInterval(mua2);
-       $("#users .uzr:contains('June')").addClass('muh');
+       $("#users .uzr:contains('قِسْطَاسٌ')").addClass('muh');
 		
 		
 		
 		
-        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://j.top4top.io/p_2592dcary0.gif">');
+        $("#users .uzr.muh .fitimg.u-pic").append('<img class="itarr_muh" title="اطاري" src="https://h.top4top.io/p_2792tp8yv0.gif">');
 		
 		
 		
