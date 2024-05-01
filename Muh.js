@@ -1,4 +1,8 @@
+$("<div class='fr borderg minix' style='padding:2px;background-color:white;margin-top: 5px;'> شات فهاوه للجوال :<a href='https://fhh0.com/ '></a></div>").insertAfter($(".loginstat"));
+
 $(`<style>
+
+
 div#l1 input#u1,div#l3 button{width:99%;margin-left:1px}
 div#l2 button,div#l3 button{border:1px solid #ccc!important;border-radius:24px!important;height:27px;padding:0 5px}
 div#l1 input#u1{border-radius:15px;border:1px solid #e1e0e0;margin-top:3px;text-align:center}
