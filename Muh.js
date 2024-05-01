@@ -1,4 +1,4 @@
-$("<div class='fr borderg minix' style='padding:2px;background-color:white;margin-top: 5px;'> شات فهاوه للجوال :<a href='https://fhh0.com/ '></a></div>").insertAfter($(".loginstat"));
+$("<div class='fr borderg minix' style='padding:2px;background-color:white;margin-top: 5px;'>  شــات :<a href='https://fhh0.com/ '>فهاوه </a></div>").insertAfter($(".loginstat"));
 
 $(`<style>
 
